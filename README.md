@@ -1,6 +1,8 @@
 # entekhabe-man-shops
 سامانه نظرسنجی فروشگاه های انتخاب من
-
+(کمی صبر کنید تا تصاویر لود شوند)
+<br/>
+<br/>
 ![mobile-1-1](https://github.com/user-attachments/assets/9319e3b4-0c15-4c8b-96d3-5421d1ea2ebb)
 ![mobile-1-2](https://github.com/user-attachments/assets/9909c464-a643-42eb-809b-6afa29911144)
 ![mobile-2-1](https://github.com/user-attachments/assets/137b7eba-7feb-4004-afa6-d5e955f3b641)
@@ -12,3 +14,5 @@
 ![web-1-2](https://github.com/user-attachments/assets/26dd8736-ee27-4728-b9cc-5740fdd2aadf)
 ![web-3-2](https://github.com/user-attachments/assets/d7e2a902-27d7-4700-9596-c9906bc09186)
 ![web-2-1](https://github.com/user-attachments/assets/8ada4d41-bd5a-4e0b-b3cc-1a77a9a3e347)
+![web-4](https://github.com/user-attachments/assets/15debee9-19a8-4559-85ca-02055a298ea3)
+![web-3-2-2](https://github.com/user-attachments/assets/3ffe2b77-b03c-4837-82ce-86d4837f8cdc)
